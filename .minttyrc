@@ -1,0 +1,7 @@
+FontHeight=10
+ClicksPlaceCursor=yes
+Columns=100
+Rows=30
+Font=Source Code Pro for Powerline
+ThemeFile=rosipov
+Term=xterm-256color
